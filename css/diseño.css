@@ -1,0 +1,51 @@
+body {
+  background-color: #F5E6CC;
+}
+
+
+h1 {
+  color: #8B2E1D;          /* Color del texto (Rosa) */
+  background-color: #FAA18F; /* Color de fondo (Lila) */
+  font-size: 2.5rem;
+  text-align: center;
+  text-decoration: underline;
+  padding: 5px 10px;        /* Espaciado opcional para que el fondo luzca mejor */
+}
+
+.rojo {
+  color: #A0522D;
+  font-size: 2.5rem;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.verde {
+  color: #70452A;
+  font-size: 2.5rem;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.azul {
+  color: #9C6644;
+  font-size: 2.5rem;
+  text-align: left;
+  text-decoration: underline;
+}
+
+
+ul, ol {
+  background-color: #FCC6BB;
+  padding: 20px 40px;
+  margin: 0;
+}
+
+li {
+  font-size: 1.2rem;
+  margin-bottom: 5px;
+}
+
+img {
+  width: 600px;
+  height: 450px;
+}
